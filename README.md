@@ -6,16 +6,23 @@ We hear system administration, scripting/coding, monitoring, automation, cloud, 
 
 # Training
 You can join BWISE and Women In Linux to show this journey. In this session we will do live training going over the following:
-1.	RedHat Certified System Administrator
-2.	Automation of Infrastructure
+1.	RedHat Certified System Administrator (Training)
+2.	Automation of Infrastructure (Training)
 ```
   a. Ansible
   b. Terraform
   c. Cloud Deployment
 ```
 3.	Career Path
+```
+  a. Beginner
+  b. Junior
+  c. Senior
+  d. Specialist
+  e. Other options (Security, SRE, Chaos Engineering)
+```
 4.	Interview Questions and techniques
-5.  Job Searching ( 
+5.  Job Searching 
 
 # Requirements
 Please note, this workshop is designed from beginners to intermediate. There will be some advanced content covered. We will provide the environment, but you will need a laptop with a terminal and web browser.
