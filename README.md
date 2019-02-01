@@ -9,7 +9,7 @@ You can join BWISE and Women In Linux to show this journey. In this session we w
 1.	RedHat Certified System Administrator (Training)
 2.	Automation of Infrastructure (Training)
 ```
- color.GREEN( a. Ansible )
+ color.Green("a. Ansible")
   b. Terraform
   c. Cloud Deployment
 ```
