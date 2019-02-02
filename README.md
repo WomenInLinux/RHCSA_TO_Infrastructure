@@ -38,6 +38,7 @@ You can join BWISE and Women In Linux to show this journey. In this session we w
    c. Sponsorship vs Mentorship, what is it?
    d. Are you really that good?
  ```
+ [300k salary] (https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c6560)
 
 # What to look for
 5.  Job Searching
