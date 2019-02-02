@@ -26,7 +26,7 @@ You can join BWISE and Women In Linux to show this journey. In this session we w
 # How to get the bag
 4.	Interview Questions and techniques
 ```
-   a. How to deal with recuriters?
+   a. How to interact with recuriters?
    b. How to sell yourself before they call you?
    c. Sponsorship vs Mentorship, what is it?
    d. Are you really that good?
