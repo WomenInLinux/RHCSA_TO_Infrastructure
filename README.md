@@ -48,7 +48,7 @@ Everyone will need a gitlab account its free and we can do this in class as well
 
 # Resources
 ```
-   RHCSA https://github.com/RexDjere/RHCSA
+   [RHCSA Study Guide](https://github.com/RexDjere/RHCSA)
 
 ```
 
