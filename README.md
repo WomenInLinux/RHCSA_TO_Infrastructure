@@ -55,7 +55,7 @@ Everyone will need a gitlab account its free and we can do this in class as well
 
 ### CLOUD TRAINING
 - [Linux Academy](https://linuxacademy.com/)
-- [CloudAcademy)(https://cloudacademy.com/)
+- [CloudAcademy](https://cloudacademy.com/)
 - [QWIKLABS](https://www.qwiklabs.com/home?locale=en)
 - [Free Azure Training](https://www.pluralsight.com/partners/microsoft/azure)
 
@@ -68,7 +68,7 @@ Everyone will need a gitlab account its free and we can do this in class as well
 - [Learn Hashicorp Services](https://learn.hashicorp.com/)
 
 ### KUBERNETES
-- [Kubernetes Documentation] (https://kubernetes.io/)
+- [Kubernetes Documentation](https://kubernetes.io/)
 
 ### Diverse Platforms
 - [Udacity](https://www.udacity.com/)
