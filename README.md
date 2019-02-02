@@ -13,6 +13,8 @@ You can join BWISE and Women In Linux to show this journey. In this session we w
   b. Terraform
   c. Cloud Deployment
 ```
+# Creating Wealth
+
 3.	Career Path
 ```
   a. Beginner
@@ -21,13 +23,31 @@ You can join BWISE and Women In Linux to show this journey. In this session we w
   d. Specialist
   e. Other options (Security, SRE, Chaos Engineering)
 ```
+# How to get the bag
 4.	Interview Questions and techniques
-5.  Job Searching 
+```
+   a. How to deal with recuriters?
+   b. How to sell yourself before they call you?
+   c. Sponsorship vs Mentorship, what is it?
+   d. Are you really that good?
+ ```
+
+# What to look for
+5.  Job Searching
+```
+  a. How to read a job description?
+  b. Learn how to setup your own study environments
+  c. Which job boards tell the truth
+  d. Read the reports and case studies
+```
 
 # Requirements
 Please note, this workshop is designed from beginners to intermediate. There will be some advanced content covered. We will provide the environment, but you will need a laptop with a terminal and web browser.
 
 Everyone will need a gitlab account its free and we can do this in class as well. Go over to https://www.gitlab.com. We will need AWS and GCP accounts.
+
+# Resources
+
 
 
 Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
