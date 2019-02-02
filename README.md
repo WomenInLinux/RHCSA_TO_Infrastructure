@@ -87,6 +87,7 @@ Everyone will need a gitlab account its free and we can do this in class as well
 - [SRE](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=sr_1_3?s=books&ie=UTF8&qid=1549076294&sr=1-3&keywords=SRE)
 - [SEEKING SRE](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864/ref=sr_1_5?s=books&ie=UTF8&qid=1549076294&sr=1-5&keywords=SRE)
 - [SRE WORKBOOK](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505/ref=sr_1_4?s=books&ie=UTF8&qid=1549076294&sr=1-4&keywords=SRE)
+- [SRE VIDEO FROM GOTO CONFERENCE](https://youtu.be/Cxb7a8lTv8A)
 
 ### HASHICORP
 - [Learn Hashicorp Services](https://learn.hashicorp.com/)
