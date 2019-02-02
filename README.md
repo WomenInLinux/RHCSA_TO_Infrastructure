@@ -17,7 +17,23 @@ You can join BWISE and Women In Linux to show this journey. In this session we w
 2.	Automation of Infrastructure (Training)
 ```
   a. Ansible
+  ```
+     - What is it and why
+     - Set up and install Ansible
+     - Test environment
+     - Desribe adhoc vs playbook
+     - Make an adhoc command
+     - Make a playbook
+     - show and understand ansible-galaxy
+     - Explain roles (advanced topic)
+  ```  
   b. Terraform
+  ```
+     - Difference between Terraform and Ansible
+     - Use terraform documentation
+     - Explain directory layout
+     - Create a tf files and deploy infrastructure
+  ``` 
   c. Cloud Deployment
 ```
 # Creating Wealth
