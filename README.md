@@ -8,11 +8,11 @@ We here system administration, scripting/coding, monitoring, automation, cloud, 
 You can join BWISE and Women In Linux to show this journey. In this session we will do live training going over the following:
 1.	RedHat Certified System Administrator (Training)
 ```
-   - a. Setup environment
-   - b. Install os (manual install)
-   - c. break down of filesystem
-   - d. command line tools
-   - e. linux security
+   a. Setup environment
+   b. Install os (manual install)
+   c. break down of filesystem
+   d. command line tools
+   e. linux security
 ```
 2.	Automation of Infrastructure (Training)
 ```
