@@ -57,7 +57,7 @@ Everyone will need a gitlab account its free and we can do this in class as well
 - [Linux Academy](https://linuxacademy.com/)
 - [CloudAcademy)(https://cloudacademy.com/)
 - [QWIKLABS](https://www.qwiklabs.com/home?locale=en)
-- [Free Azure Training)(https://www.pluralsight.com/partners/microsoft/azure)
+- [Free Azure Training](https://www.pluralsight.com/partners/microsoft/azure)
 
 ### SRE
 - [SRE](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=sr_1_3?s=books&ie=UTF8&qid=1549076294&sr=1-3&keywords=SRE)
@@ -74,9 +74,12 @@ Everyone will need a gitlab account its free and we can do this in class as well
 - [Udacity](https://www.udacity.com/)
 - [PluralSight](https://www.pluralsight.com/)
 - [Coursera](https://www.coursera.org/)
+- [EDX](https://www.edx.org/)
 
 ### Cyber Security
 - [Free Training for Women](https://www.linkedin.com/pulse/free-cybersecurity-training-women-please-share-deidre-diamond/)
+- [Cybrary](https://www.cybrary.it/)
+
 
 # MindMap of Dicussion
 Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
