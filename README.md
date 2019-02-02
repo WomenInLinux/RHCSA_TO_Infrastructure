@@ -81,6 +81,9 @@ Everyone will need a gitlab account its free and we can do this in class as well
 - [Free Training for Women](https://www.linkedin.com/pulse/free-cybersecurity-training-women-please-share-deidre-diamond/)
 - [Cybrary](https://www.cybrary.it/)
 
+### YouTube We Follow
+- [HashiCorp](https://www.youtube.com/channel/UC-AdvAxaagE9W2f0webyNUQ/featured)
+- [CNCF](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA)
 
 # MindMap of Dicussion
 Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
