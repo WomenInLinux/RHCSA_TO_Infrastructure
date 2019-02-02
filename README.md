@@ -49,6 +49,11 @@ Everyone will need a gitlab account its free and we can do this in class as well
 # Resources
 
 [RHCSA Study Guide](https://github.com/RexDjere/RHCSA)
+[RHCSA BOOK](https://www.amazon.com/RHCSA-Linux-Certification-Study-Seventh/dp/0071841962/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=B2J267N730EGT0X2BW8B)
+[SRE](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=sr_1_3?s=books&ie=UTF8&qid=1549076294&sr=1-3&keywords=SRE)
+[SEEKING SRE](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864/ref=sr_1_5?s=books&ie=UTF8&qid=1549076294&sr=1-5&keywords=SRE)
+[SRE WORKBOOK](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505/ref=sr_1_4?s=books&ie=UTF8&qid=1549076294&sr=1-4&keywords=SRE)
+
 
 
 
