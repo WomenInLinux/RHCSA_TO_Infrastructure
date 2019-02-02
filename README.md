@@ -48,12 +48,16 @@ Everyone will need a gitlab account its free and we can do this in class as well
 
 # Resources
 
-### RHCSA
+### Linux
 - [RHCSA Study Guide](https://github.com/RexDjere/RHCSA)
 - [RHCSA BOOK](https://www.amazon.com/RHCSA-Linux-Certification-Study-Seventh/dp/0071841962/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=B2J267N730EGT0X2BW8B)
+- [Linux Foundation](https://www.linuxfoundation.org/)
 
 ### CLOUD TRAINING
 - [Linux Academy](https://linuxacademy.com/)
+- [CloudAcademy)(https://cloudacademy.com/)
+- [QWIKLABS](https://www.qwiklabs.com/home?locale=en)
+- [Free Azure Training)(https://www.pluralsight.com/partners/microsoft/azure)
 
 ### SRE
 - [SRE](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=sr_1_3?s=books&ie=UTF8&qid=1549076294&sr=1-3&keywords=SRE)
@@ -66,7 +70,13 @@ Everyone will need a gitlab account its free and we can do this in class as well
 ### KUBERNETES
 - [Kubernetes Documentation] (https://kubernetes.io/)
 
+### Diverse Platforms
+- [Udacity](https://www.udacity.com/)
+- [PluralSight](https://www.pluralsight.com/)
+- [Coursera](https://www.coursera.org/)
 
+### Cyber Security
+- [Free Training for Women](https://www.linkedin.com/pulse/free-cybersecurity-training-women-please-share-deidre-diamond/)
 
 # MindMap of Dicussion
 Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
