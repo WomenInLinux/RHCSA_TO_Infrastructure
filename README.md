@@ -1,5 +1,11 @@
 # RHCSA to Infrastructure Engineer
-
+```
+   1. Setup environment
+   2. install os (manual install)
+   3. break down of filesystem
+   4. command line tools
+   5. linux security
+```
 
 From RHCSA to Infrastructure Engineer
 We here system administration, scripting/coding, monitoring, automation, cloud, and security. Have you ever asked yourself how do they all intertwine together? Where can I get those skills at? If I am in the field how to pivot.
