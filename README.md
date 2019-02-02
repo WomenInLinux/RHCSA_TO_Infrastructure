@@ -1,11 +1,5 @@
 # RHCSA to Infrastructure Engineer
-```
-   1. Setup environment
-   2. install os (manual install)
-   3. break down of filesystem
-   4. command line tools
-   5. linux security
-```
+
 
 From RHCSA to Infrastructure Engineer
 We here system administration, scripting/coding, monitoring, automation, cloud, and security. Have you ever asked yourself how do they all intertwine together? Where can I get those skills at? If I am in the field how to pivot.
@@ -13,6 +7,13 @@ We here system administration, scripting/coding, monitoring, automation, cloud, 
 # Training
 You can join BWISE and Women In Linux to show this journey. In this session we will do live training going over the following:
 1.	RedHat Certified System Administrator (Training)
+```
+   1. Setup environment
+   2. install os (manual install)
+   3. break down of filesystem
+   4. command line tools
+   5. linux security
+```
 2.	Automation of Infrastructure (Training)
 ```
   a. Ansible
