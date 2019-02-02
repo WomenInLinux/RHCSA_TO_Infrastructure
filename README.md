@@ -2,7 +2,7 @@
 
 
 From RHCSA to Infrastructure Engineer
-We hear system administration, scripting/coding, monitoring, automation, cloud, and security. Have you ever asked yourself how do they all intertwine together? Where can I get those skills at? If I am in the field how to pivot.
+We here system administration, scripting/coding, monitoring, automation, cloud, and security. Have you ever asked yourself how do they all intertwine together? Where can I get those skills at? If I am in the field how to pivot.
 
 # Training
 You can join BWISE and Women In Linux to show this journey. In this session we will do live training going over the following:
