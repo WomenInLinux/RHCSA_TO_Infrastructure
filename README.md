@@ -69,6 +69,7 @@ Everyone will need a gitlab account its free and we can do this in class as well
 
 ### KUBERNETES
 - [Kubernetes Documentation](https://kubernetes.io/)
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 ### Diverse Platforms
 - [Udacity](https://www.udacity.com/)
