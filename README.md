@@ -84,6 +84,8 @@ Everyone will need a gitlab account its free and we can do this in class as well
 ### YouTube We Follow
 - [HashiCorp](https://www.youtube.com/channel/UC-AdvAxaagE9W2f0webyNUQ/featured)
 - [CNCF](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA)
+- [GOOGLE CLOUD PLATFORM](https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg)
+- [FREECODECAMP](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)
 
 # MindMap of Dicussion
 Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
