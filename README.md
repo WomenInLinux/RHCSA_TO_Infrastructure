@@ -50,7 +50,8 @@ Everyone will need a gitlab account its free and we can do this in class as well
 ```
    RHCSA https://github.com/RexDjere/RHCSA
 
+```
 
-Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
 # MindMap of Dicussion
+Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
 ![alt text](RHCSA_to_Infrastructure_Automation_Engineer.png)
