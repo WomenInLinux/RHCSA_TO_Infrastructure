@@ -47,7 +47,8 @@ Please note, this workshop is designed from beginners to intermediate. There wil
 Everyone will need a gitlab account its free and we can do this in class as well. Go over to https://www.gitlab.com. We will need AWS and GCP accounts.
 
 # Resources
-
+```
+   RHCSA https://github.com/RexDjere/RHCSA
 
 
 Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
