@@ -114,4 +114,5 @@ Everyone will need a gitlab account its free and we can do this in class as well
 # MindMap of Dicussion
 Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
 [Link to mind map](https://mm.tt/1210997092?t=8LWdNA8Dnc)
+
 ![alt text](RHCSA_to_Infrastructure_Automation_Engineer.png)
