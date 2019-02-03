@@ -2,38 +2,38 @@
 
 
 From RHCSA to Infrastructure Engineer
-We here system administration, scripting/coding, monitoring, automation, cloud, and security. Have you ever asked yourself how do they all intertwine together? Where can I get those skills at? If I am in the field how to pivot.
+We hear system administration, scripting/coding, monitoring, automation, cloud, and security. Have you ever asked yourself how do they all intertwine together? Where can I get those skills? If I am in the field, how do I pivot?
 
 # Training
-You can join BWISE and Women In Linux to show this journey. In this session we will do live training going over the following:
+Join BWISE and Women In Linux to begin this journey. In this session, we will do live training going over the following:
 1.	RedHat Certified System Administrator (Training)
 ```
    a. Setup environment
-   b. Install os (manual install)
-   c. break down of filesystem
-   d. command line tools
-   e. linux security
+   b. Install OS (manual install)
+   c. Break down of filesystem
+   d. Command line tools
+   e. Linux security
 ```
 2.	Automation of Infrastructure (Training)
 ```
   a. Ansible
   ```
-     - What is it and why
+     - What it is and how it is used
      - Set up and install Ansible
      - Test environment
-     - Desribe adhoc vs playbook
+     - Desicribe adhoc commands vs playbooks
      - Make an adhoc command
      - Make a playbook
-     - show and understand ansible-galaxy
+     - Show and understand ansible-galaxy
      - Explain roles (advanced topic)
-  ```  
+  ```
   b. Terraform
   ```
-     - Difference between Terraform and Ansible
+     - Differences between Terraform and Ansible
      - Use terraform documentation
      - Explain directory layout
      - Create a tf files and deploy infrastructure
-  ``` 
+  ```
   c. Cloud Deployment
 ```
 # Creating Wealth
@@ -49,9 +49,9 @@ You can join BWISE and Women In Linux to show this journey. In this session we w
 # How to get the bag
 4.	Interview Questions and techniques
 ```
-   a. How to interact with recuriters?
-   b. How to sell yourself before they call you?
-   c. Sponsorship vs Mentorship, what is it?
+   a. How to interact with recuriters
+   b. How to sell yourself before they call you
+   c. Sponsorship vs Mentorship
    d. Are you really that good?
  ```
  [How one obtained 300k salary](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c6560)
@@ -59,16 +59,18 @@ You can join BWISE and Women In Linux to show this journey. In this session we w
 # What to look for
 5.  Job Searching
 ```
-  a. How to read a job description?
-  b. Learn how to setup your own study environments
+  a. How to read a job description
+  b. Learn how to set up your own study environments
   c. Which job boards tell the truth
-  d. Read the reports and case studies
+  d. Reading reports and case studies
 ```
 
 # Requirements
-Please note, this workshop is designed from beginners to intermediate. There will be some advanced content covered. We will provide the environment, but you will need a laptop with a terminal and web browser.
+Please note, this workshop is designed for all levels from beginner to intermediate. There will be some advanced content covered. We will provide the environment, but you will need a laptop with a terminal and web browser.
 
-Everyone will need a gitlab account its free and we can do this in class as well. Go over to https://www.gitlab.com. We will need AWS and GCP accounts.
+You will need a GitLab account which you can open before or during the training. Go to [www.gitlab.com](https://www.gitlab.com) to create an account.
+
+We will need AWS and GCP accounts.
 
 # Resources
 
