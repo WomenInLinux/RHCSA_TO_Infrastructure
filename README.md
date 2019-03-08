@@ -21,7 +21,7 @@ Join BWISE and Women In Linux to begin this journey. In this session, we will do
      - What it is and how it is used
      - Set up and install Ansible
      - Test environment
-     - Desicribe adhoc commands vs playbooks
+     - Describe adhoc commands vs playbooks
      - Make an adhoc command
      - Make a playbook
      - Show and understand ansible-galaxy
@@ -35,6 +35,9 @@ Join BWISE and Women In Linux to begin this journey. In this session, we will do
      - Create a tf files and deploy infrastructure
   ```
   c. Cloud Deployment
+     - Oracle Cloud
+     - Google Cloud
+     - Digital Ocean
 ```
 # Creating Wealth
 
