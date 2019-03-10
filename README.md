@@ -4,7 +4,7 @@
 From RHCSA to Infrastructure Engineer
 We hear system administration, scripting/coding, monitoring, automation, cloud, and security. Have you ever asked yourself how do they all intertwine together? Where can I get those skills? If I am in the field, how do I pivot?
 
-# Training
+## Training
 Join BWISE and Women In Linux to begin this journey. In this session, we will do live training going over the following:
 1.	RedHat Certified System Administrator (Training)
 ```
@@ -39,7 +39,7 @@ Join BWISE and Women In Linux to begin this journey. In this session, we will do
      - Google Cloud
      - Digital Ocean
 ```
-# Creating Wealth
+## Creating Wealth
 
 3.	Career Path
 ```
@@ -49,7 +49,7 @@ Join BWISE and Women In Linux to begin this journey. In this session, we will do
   d. Specialist
   e. Other options (Security, SRE, Chaos Engineering)
 ```
-# How to get the bag
+## How to get the bag
 4.	Interview Questions and techniques
 ```
    a. How to interact with recuriters
@@ -59,7 +59,7 @@ Join BWISE and Women In Linux to begin this journey. In this session, we will do
  ```
  [How one obtained 300k salary](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c6560)
 
-# What to look for
+## What to look for
 5.  Job Searching
 ```
   a. How to read a job description
@@ -68,14 +68,14 @@ Join BWISE and Women In Linux to begin this journey. In this session, we will do
   d. Reading reports and case studies
 ```
 
-# Requirements
+## Requirements
 Please note, this workshop is designed for all levels from beginner to intermediate. There will be some advanced content covered. We will provide the environment, but you will need a laptop with a terminal and web browser.
 
 You will need a GitLab account which you can open before or during the training. Go to [www.gitlab.com](https://www.gitlab.com) to create an account.
 
 We will need AWS and GCP accounts.
 
-# Resources
+## Resources
 
 ### Linux
 - [RHCSA Study Guide](https://github.com/RexDjere/RHCSA)
@@ -117,7 +117,7 @@ We will need AWS and GCP accounts.
 - [GOOGLE CLOUD PLATFORM](https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg)
 - [FREECODECAMP](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)
 
-# MindMap of Dicussion
+## MindMap of Dicussion
 Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
 - [Link to mind map](https://mm.tt/1210997092?t=8LWdNA8Dnc)
 
