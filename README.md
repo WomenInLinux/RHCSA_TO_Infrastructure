@@ -1,16 +1,15 @@
 # RHCSA to Infrastructure Engineer
 
 
-From RHCSA to Infrastructure Engineer
-We hear system administration, scripting/coding, monitoring, automation, cloud, and security. Have you ever asked yourself how do they all intertwine together? Where can I get those skills? If I am in the field, how do I pivot?
+From RHCSA to Infrastructure Engineer. We ofter hear about system administration, scripting/coding, monitoring, automation, cloud, and security. Have you ever asked yourself how do they all intertwine together? Where can I get those skills? If I am in the field, how do I pivot?
 
 ## Training
-Join BWISE and Women In Linux to begin this journey. In this session, we will do live training going over the following:
+Join BWISE and Women In Linux to begin this journey. In this session, we will perform a live training reviewing the following:
 1.	RedHat Certified System Administrator (Training)
 ```
    a. Setup environment
    b. Install OS (manual install)
-   c. Break down of filesystem
+   c. Breakdown of filesystem
    d. Command line tools
    e. Linux security
 ```
@@ -30,9 +29,9 @@ Join BWISE and Women In Linux to begin this journey. In this session, we will do
   b. Terraform
   ```
      - Differences between Terraform and Ansible
-     - Use terraform documentation
+     - Use Terraform documentation
      - Explain directory layout
-     - Create a tf files and deploy infrastructure
+     - Create a tf-files and deploy infrastructure
   ```
   c. Cloud Deployment
      - Oracle Cloud
@@ -73,7 +72,7 @@ Please note, this workshop is designed for all levels from beginner to intermedi
 
 You will need a GitLab account which you can open before or during the training. Go to [www.gitlab.com](https://www.gitlab.com) to create an account.
 
-We will need AWS and GCP accounts.
+You will also need AWS(Amazon Web Services) and GCP(Google CloudPlatform) accounts.
 
 ## Resources
 
@@ -118,7 +117,7 @@ We will need AWS and GCP accounts.
 - [FREECODECAMP](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)
 
 ## MindMap of Dicussion
-Here is the mindmap of what we will discuss. This will be broken down into each hour we have.
+This mindmap cover the topics discussed. 
 - [Link to mind map](https://mm.tt/1210997092?t=8LWdNA8Dnc)
 
 ![alt text](RHCSA_to_Infrastructure_Automation_Engineer.png)
