@@ -72,6 +72,8 @@ Please note, this workshop is designed for all levels from beginner to intermedi
 
 You will need a GitLab account which you can open before or during the training. Go to [www.gitlab.com](https://www.gitlab.com) to create an account.
 
+[Slides](https://womenininux-my.sharepoint.com/:p:/g/personal/tameika74_womeninlinux_com/EXhDR7jGin1NnC-u5VC2fQ8Bq33Vz_InucOwujjexviprQ?e=eNHOEw)
+
 You will also need AWS(Amazon Web Services) and GCP(Google CloudPlatform) accounts.
 
 ## Resources
